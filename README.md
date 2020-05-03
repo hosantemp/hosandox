@@ -1,3 +1,4 @@
 hey world
-Tixati  =
-qbit*** =
+
+Tixati  = hosantex.deb
+qbit*** = hosanqbit.deb
