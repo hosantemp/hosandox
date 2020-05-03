@@ -1,7 +1,7 @@
 <html>
 hey world
 
-Tixati  = hosantex.deb <b>
-qbit*** = hosanqbit.deb <b>
+Tixati  = hosantex.deb <br>
+qbit*** = hosanqbit.deb <br>
   
 <html/>
