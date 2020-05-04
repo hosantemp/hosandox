@@ -9,4 +9,5 @@ libxmlr = hosanlibxmlr.deb <br>
 rtorrent = hosanrt.deb <br>
 libcurl = hosanlibcurl.deb <br>
 libtorrent-rasterbar8 = hosanlibrasterbar8.deb <br>
+geoip-database-contrib =hosangeoipl.deb <br>
 <html/>
